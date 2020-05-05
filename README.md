@@ -23,6 +23,8 @@ As seguintes tecnologias foram utiliadas neste projeto:
 
 É um projeto feito para facilitar a localização de outros devs em seu bairro, cidade, ou estado (depende de como é configurado).
 
+# :rocket: Inicializando
+
 ### Instalação
 
 - Baixe este repositório em sua máquina, descompacte o arquivo e entre na pasta dele: `$ cd path/to/Dev-radar`
