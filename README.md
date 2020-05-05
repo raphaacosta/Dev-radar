@@ -23,12 +23,12 @@ As seguintes tecnologias foram utiliadas neste projeto:
 
 É um projeto feito para facilitar a localização de outros devs em seu bairro, cidade, ou estado (depende de como é configurado).
 
-### :rocket: Instalação
+### Instalação
 
 - Baixe este repositório em sua máquina, descompacte o arquivo e entre na pasta dele: `$ cd path/to/Dev-radar`
 - Rode o comando `$ yarn install` em cada uma das pastas do projeto (backend, web e mobile)
 
-### :rocket: Uso
+### Uso
 
 - Back-end: `$ yarn dev` na pasta 'backend'
 - Web: `$ yarn start` na pasta web
