@@ -23,11 +23,16 @@ As seguintes tecnologias foram utiliadas neste projeto:
 
 É um projeto feito para facilitar a localização de outros devs em seu bairro, cidade, ou estado (depende de como é configurado).
 
-### :rocket: Como rodar em sua máquina
+### :rocket: Instalação
 
 - Baixe este repositório em sua máquina, descompacte o arquivo e entre na pasta dele: `$ cd path/to/Dev-radar`
 - Rode o comando `$ yarn install` em cada uma das pastas do projeto (backend, web e mobile)
-- Após isso rode o comando `$ yarn dev` na pasta 'backend', `$ yarn start` na pasta web e `$ expo start` ou `$ yarn start` na pasta mobile. <br>*(lembrando que para rodar em seu celular é necessário o aplicativo do Expo, facilmente encontrado na Google Play Store ou Apple Store pesquisando por "Expo").
+
+### :rocket: Uso
+
+- Back-end: `$ yarn dev` na pasta 'backend'
+- Web: `$ yarn start` na pasta web
+- Mobile: `$ expo start` ou `$ yarn start` na pasta mobile. <br>*(lembrando que para rodar em seu celular é necessário o aplicativo do Expo, facilmente encontrado na Google Play Store ou Apple Store pesquisando por "Expo").
 
 ### :muscle: Como contribuir
 
