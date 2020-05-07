@@ -8,7 +8,38 @@
   </a>
 </p>
 
-### :computer: Tecnologias Usadas
+# :rocket: Inicializando
+
+### Requisitos
+
+- Nodejs
+- npm (ou Yarn se preferir)
+- Expo
+
+### Instalação
+
+- Instalação do [Yarn](https://classic.yarnpkg.com/en/docs/install#mac-stable). Selecione o seu SO e siga o passo-a-passo
+- Instalação do Node e [npm](https://nodejs.org/en/download/package-manager/). Novamente selecione seu SO e siga o passo-a-passo.
+- Instalação do [Expo](https://expo.io/learn)
+- Baixe este repositório em seu computador e instale as dependências com o comando `$ yarn install` ou `$ npm install`<br> (É necessário fazer essa instalação em todas as pastas, backend, web e moile).
+
+### Utilizando a aplicação
+
+- Para iniciar a api, rode o comando `$ cd path/to/Dev-radar/backend/ && yarn dev`.
+- Para visualizar o frontend: `$ path/to/Dev-radar/web/ && yarn start`.
+- Para utilizar a aplicação mobile: `$ path/to/Dev-radar/mobile/ && yarn start` ou substitua o último comando por `$ path/to/Dev-radar/mobile/ && expo start`
+
+### Uso
+
+- Back-end: `$ yarn dev` na pasta 'backend'
+- Web: `$ yarn start` na pasta web
+- Mobile: `$ expo start` ou `$ yarn start` na pasta mobile. <br>*(lembrando que para rodar em seu celular é necessário o aplicativo do Expo, facilmente encontrado na Google Play Store ou Apple Store pesquisando por "Expo").
+
+# :book: Sobre o projeto 
+
+É um projeto feito para facilitar a localização de outros devs em seu bairro, cidade, ou estado (depende de como é configurado).
+
+# :computer: Tecnologias Usadas
 
 As seguintes tecnologias foram utiliadas neste projeto:
 - [Node.js](https://nodejs.org/en/)
@@ -17,26 +48,8 @@ As seguintes tecnologias foram utiliadas neste projeto:
 - [React-Native](https://reactnative.dev/)
 - [Expo.io](https://expo.io/)
 - [Socket.io](https://socket.io/)
-- [Package Manager Yarn](https://yarnpkg.com/)
 
-### :book: Sobre o projeto 
-
-É um projeto feito para facilitar a localização de outros devs em seu bairro, cidade, ou estado (depende de como é configurado).
-
-# :rocket: Inicializando
-
-### Instalação
-
-- Baixe este repositório em sua máquina, descompacte o arquivo e entre na pasta dele: `$ cd path/to/Dev-radar`
-- Rode o comando `$ yarn install` em cada uma das pastas do projeto (backend, web e mobile)
-
-### Uso
-
-- Back-end: `$ yarn dev` na pasta 'backend'
-- Web: `$ yarn start` na pasta web
-- Mobile: `$ expo start` ou `$ yarn start` na pasta mobile. <br>*(lembrando que para rodar em seu celular é necessário o aplicativo do Expo, facilmente encontrado na Google Play Store ou Apple Store pesquisando por "Expo").
-
-### :muscle: Como contribuir
+# :muscle: Como contribuir
 
 - Dê um fork nesse repositório
 - Crie uma branch com a sua feature `$ git checkout -b minha-feature`
