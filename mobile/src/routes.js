@@ -3,16 +3,9 @@ import { createStackNavigator } from 'react-navigation-stack';
 
 import Main from './pages/Main';
 import Profile from './pages/Profile';
-import Add from './pages/Add';
 
 const Routes = createAppContainer(
     createStackNavigator({
-        Add: {
-            screen: Add,
-            navigationOptions: {
-                title: 'Cadastrar Dev',
-            },
-        },
         Main: {
             screen: Main,
             navigationOptions: {
