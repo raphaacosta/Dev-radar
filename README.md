@@ -8,6 +8,16 @@
   </a>
 </p>
 
+# Resultados :computer: e :iphone:
+
+<div align="center">
+  <img alt="Dev_radar_web" src="./github_assets/web.png" width="510px"/>
+</div>
+<div align="center">
+  <img alt="Dev_radar_mobile" src="./github_assets/main_mobile.png" width="250px"/>
+  <img alt="Dev_radar_mobile" src="./github_assets/profile_mobile.png" width="250px" style="margin-left: 10px"/>
+</div>
+
 # :rocket: Inicializando
 
 ### Requisitos
