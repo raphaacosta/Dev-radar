@@ -9,11 +9,13 @@
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.19.1",
     "dot-prop": "^5.1.1",
+    "http-proxy": "^1.18.1",
     "lodash": "^4.17.19",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0",
-    "serialize-javascript": "^3.1.0"
+    "serialize-javascript": "^3.1.0",
+    "yargs-parser": "^13.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
