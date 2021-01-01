@@ -12,6 +12,7 @@
     "http-proxy": "^1.18.1",
     "lodash": "^4.17.19",
     "node-forge": "^0.10.0",
+    "object-path": "^0.11.5",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0",
